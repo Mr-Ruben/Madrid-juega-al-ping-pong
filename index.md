@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Bienvenido!
 
-You can use the [editor on GitHub](https://github.com/Mr-Ruben/Madrid-juega-al-ping-pong/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. 
+**Madrid juega al ping-pong** es un proyecto personal que pretende:
+- Dar a conocer la localizacion mesas de ping-pong publicas y gratuitas que hay en la ciudad de Madrid
+- Facilitar que las personas interesadas en jugar se conozcan y acudan a jugar juntas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En principio eso es todo. Luego el tiempo dira.
 
-### Markdown
+El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy rapido y en el que pueden jugar desde 2 hasta 6+ personas a la vez [rueda] (https://www.youtube.com/watch?v=2w0lYanJtzA). Incluso sin raqueta!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mapa de mesas
 
-```markdown
-Syntax highlighted code block
+MAPA
+<iframe src="https://www.google.com/maps/d/embed?mid=1Fmxpo1Q1BcEdykBuxHHcZEdoVkncN8Zv" width="640" height="480"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+Puedes ver exactamente donde esta la mesa o grupo de mesas.
 
-- Bulleted
-- List
+La mesa que tiene un grupo de whatsapp cambia de color a verde.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Quedar y jugar
+Algunas de las mesas (ahora mismo solo una) tiene un grupo de whatsapp. Cualquiera puede entrar y salir cuando lo desee.
 
-[Link](url) and ![Image](src)
-```
+La idea es que la persona interesada en jugar en una mesa/zona en particular se meta en ese grupo y proponga cuando quiera jugar. Como el lugar ya esta prefijado, solo hace falta acordar una hora.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+He querido que la forma de contactar sea lo mas directa y sencilla posible (no redes sociales) y puesto que la mayoria de las personas en España tienen Whatsapp pues eso usamos.
 
-### Jekyll Themes
+IMAGE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mr-Ruben/Madrid-juega-al-ping-pong/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Se necesitan colaboradores
 
-### Support or Contact
+Para:
+- Mapear las mesas (poner las [mesas disponibles](https://datos.madrid.es/egob/catalogo/300446-0-tenis-mesa.csv)* en el mapa y darles un nombre). 
+- Crear grupos de Whatsapp (uno por mesa/zona). Esto en principio solo para la mesa que tu vayas a usar.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Puedes contactarme por [whatsapp](https://wa.link/j7bt8j) o [email](mr.ruben.mg@gmail.com) si quieres colaborar.
+**Nota:** Para mapear mesas necesitas una cuenta de google/gmail.
+
+## Log de eventos
+2020-10-13 Creacion de esta web y el primer grupo de whatsapp (by me)
+
+
+* Provienen de esta [web](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f978e9d0db722710VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+LINKS
+
