@@ -6,9 +6,10 @@
 
 En principio eso es todo. Luego el tiempo dira.
 
-El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy rapido y en el que pueden jugar desde 2 hasta 6+ personas a la vez [rueda] (https://www.youtube.com/watch?v=2w0lYanJtzA). Incluso sin raqueta!
+El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy rapido y en el que pueden jugar desde 2 hasta 6+ personas a la vez ([rueda](https://www.youtube.com/watch?v=2w0lYanJtzA)). Incluso sin raqueta!
 
 ## Mapa de mesas
+
 
 MAPA
 <iframe src="https://www.google.com/maps/d/embed?mid=1Fmxpo1Q1BcEdykBuxHHcZEdoVkncN8Zv" width="640" height="480"></iframe>
@@ -25,23 +26,28 @@ La idea es que la persona interesada en jugar en una mesa/zona en particular se 
 
 He querido que la forma de contactar sea lo mas directa y sencilla posible (no redes sociales) y puesto que la mayoria de las personas en España tienen Whatsapp pues eso usamos.
 
-IMAGE
+![quedar es simple!](whatsapp-ping-pong-meeting.png)
 
 ## Se necesitan colaboradores
 
 Para:
-- Mapear las mesas (poner las [mesas disponibles](https://datos.madrid.es/egob/catalogo/300446-0-tenis-mesa.csv)* en el mapa y darles un nombre). 
+- Mapear las mesas (poner las [mesas disponibles](https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&single=true)* en el mapa y darles un nombre). 
 - Crear grupos de Whatsapp (uno por mesa/zona). Esto en principio solo para la mesa que tu vayas a usar.
 
 
 Puedes contactarme por [whatsapp](https://wa.link/j7bt8j) o [email](mr.ruben.mg@gmail.com) si quieres colaborar.
+
 **Nota:** Para mapear mesas necesitas una cuenta de google/gmail.
+
+## Mesas mapeadas
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 ## Log de eventos
 2020-10-13 Creacion de esta web y el primer grupo de whatsapp (by me)
 
 
-* Provienen de esta [web](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f978e9d0db722710VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+`*` Provienen de esta [web](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f978e9d0db722710VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
 
-LINKS
 
