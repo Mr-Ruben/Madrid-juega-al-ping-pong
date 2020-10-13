@@ -12,7 +12,7 @@ El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy r
 
 ----------------------------------------------------------------------
 
-## Mapa de mesas
+## Mapa de mesas (en desarrollo)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Fmxpo1Q1BcEdykBuxHHcZEdoVkncN8Zv" width="640" height="480"></iframe>
 
@@ -56,7 +56,8 @@ Aprovecho para dar las gracias al Ayuntamiento de Madrid por poner mesas y decir
 
 ## Mesas mapeadas
 
-<iframe width="85%" height="40%"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="85%" height="40%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 ----------------------------------------------------------------------
 
