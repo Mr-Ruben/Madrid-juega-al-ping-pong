@@ -1,4 +1,4 @@
-[Madrid juega al ping-pong](https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/02/17/el-regidor-de-participacion-ciudadana-y-gobierno-interior-alberto-jarabo-y-el-de-deportes-francisco-ducros-jugando-al-ping-pong.jpeg)
+![Madrid juega al ping-pong](https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/02/17/el-regidor-de-participacion-ciudadana-y-gobierno-interior-alberto-jarabo-y-el-de-deportes-francisco-ducros-jugando-al-ping-pong.jpeg)
 
 ## Bienvenido!
 
