@@ -2,7 +2,7 @@
 
 ## Bienvenido!
 
-**Madrid juega al ping-pong** es un proyecto personal que pretende:
+[**Madrid juega al ping-pong**](http://tinyurl.com/madrid-ping-pong) es un proyecto personal que pretende:
 - Dar a conocer la localización mesas de ping-pong públicas y gratuitas que hay en la ciudad de Madrid
 - Facilitar el encuentro de personas interesadas en jugar
 
@@ -62,5 +62,5 @@ Aprovecho para dar las gracias al Ayuntamiento de Madrid por poner mesas y decir
 ----------------------------------------------------------------------
 
 ## Log de eventos
-2020-10-13 Creación de esta web y el primer grupo de whatsapp (by me)
+2020-10-13 Creación de esta web (http://tinyurl.com/madrid-ping-pong) y el primer grupo de whatsapp (by me)
 
