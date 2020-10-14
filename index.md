@@ -56,7 +56,7 @@ Aprovecho para dar las gracias al Ayuntamiento de Madrid por poner mesas y decir
 
 ## Mesas mapeadas
 
-<iframe width="85%" height="40%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="95%" height="50%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ----------------------------------------------------------------------
