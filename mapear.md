@@ -1,4 +1,6 @@
-
+---
+permalink: /mapear.html
+---
 
 ## Mapeando mesas de ping-pong en Madrid
 
