@@ -44,7 +44,9 @@ Para:
 - Crear grupos de Whatsapp (uno por mesa/zona). Esto en principio solo para la mesa que tu vayas a usar.
 
 
-Puedes contactarme por [whatsapp](https://wa.link/j7bt8j) o [email](http://tinyurl.com/yxhn7shc) si quieres colaborar.
+Si quieres colaborar [pincha aqui](https://mr-ruben.github.io/Madrid-juega-al-ping-pong/mapear.html) para enviarme la informacion sobre las mesas que quieras mapear.
+
+Si lo deseas puedes contactarme por [whatsapp](https://wa.link/j7bt8j) o [email](http://tinyurl.com/yxhn7shc).
 
 
 
