@@ -21,6 +21,7 @@ Aqui puede ver las que están mapeadas y las que no.
 Si quiere copie las lineas que le interese mapear y substituya la dirección por las coordenadas geográficas.
 
 
+
 ###Como obtengo las coordenadas?
 
 1. Abra Google Maps
