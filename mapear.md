@@ -1,6 +1,7 @@
----
+layout: page
+title: "Mapeando mesas"
 permalink: /mapear.html
----
+
 
 ## Mapeando mesas de ping-pong en Madrid
 
