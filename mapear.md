@@ -17,14 +17,14 @@ Lo único que necesito es las coordenadas de una mesa y el nombre que quiere que
 Aqui puede ver las que están mapeadas y las que no.
 
 
-<iframe width="100%" height="60%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&single=true&widget=true&headers=false"></iframe>
+<iframe width="80%" height="40%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT56qFroA4dhKBhXHxo7w2GhUJ-4m2y1KrsB3aR5YwaqPmDNMHQis32A0b7CdG6CwAkO4m2DOB7DdIw/pubhtml?gid=755616272&single=true&widget=true&headers=false"></iframe>
 
 
 Si quiere copie las lineas que le interese mapear y substituya la dirección por las coordenadas geográficas.
 
 
 
-###Como obtengo las coordenadas?
+### Como obtengo las coordenadas?
 
 1. Abra Google Maps
 2. Cambie a modo Satelite
