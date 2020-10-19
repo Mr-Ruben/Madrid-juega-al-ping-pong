@@ -8,7 +8,7 @@
 
 En principio eso es todo. Luego el tiempo dirá.
 
-El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy rápido (en cuestión de minutos incluso) y en el que pueden jugar desde 2 hasta 6+ personas a la vez ([rueda](https://www.youtube.com/watch?v=2w0lYanJtzA)). Incluso sin raqueta!
+El ping-pong es un deporte sumamente divertido en el que uno puede mejorar muy rápido (en cuestión de minutos incluso) y en el que pueden jugar desde 2 hasta 6+ personas a la vez ([rueda](https://www.youtube.com/watch?v=2w0lYanJtzA)), incluso sin raqueta!
 
 ----------------------------------------------------------------------
 
@@ -20,7 +20,11 @@ Pincha [aqui](https://www.google.com/maps/d/edit?mid=1Fmxpo1Q1BcEdykBuxHHcZEdoVk
 
 Puedes ver exactamente dónde está la mesa o grupo de mesas.
 
-La mesa que tiene un grupo de whatsapp cambia de color a verde.
+Codigo de colores:
+
+- Azul: Sin informacion adicional
+- Verde: Con grupo de Whatsapp / web, u otra informacion relevante
+- Rojo: Aparece en el listado del Ayuntamiento pero ya no existen o no se puede jugar
 
 ----------------------------------------------------------------------
 
