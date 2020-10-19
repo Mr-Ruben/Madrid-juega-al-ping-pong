@@ -64,5 +64,7 @@ Aprovecho para dar las gracias al Ayuntamiento de Madrid por poner mesas y decir
 ----------------------------------------------------------------------
 
 ## Log de eventos
-2020-10-13 Creación de esta web [http://tinyurl.com/madrid-ping-pong](http://tinyurl.com/madrid-ping-pong) y el primer grupo de whatsapp (by me)
-
+ 
+ - 2020-10-13 Creación de esta web [http://tinyurl.com/madrid-ping-pong](http://tinyurl.com/madrid-ping-pong) y el primer grupo de whatsapp (by me)
+ - 2020-10-19 "La Cabrera" eliminada (ya no estan). Muchas adiciones al mapa.
+ 
