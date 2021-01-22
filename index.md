@@ -23,18 +23,18 @@ Puedes ver exactamente dónde está la mesa o grupo de mesas.
 Codigo de colores:
 
 - Azul: Sin informacion adicional
-- Verde: Con grupo de Whatsapp / web, u otra informacion relevante
+- Verde: Con grupo de Whatsapp / Telegram / web, u otra informacion relevante
 - Rojo: Aparece en el listado del Ayuntamiento pero ya no existen o no se puede jugar
 
 ----------------------------------------------------------------------
 
 ## Quedar y jugar
 
-Algunas de las mesas tiene un grupo de whatsapp. Cualquiera puede entrar y salir del grupo cuando lo desee.
+Algunas de las mesas tiene un grupo de whatsapp/telegram. Cualquiera puede entrar y salir del grupo cuando lo desee.
 
 La idea es que la persona interesada en jugar en una mesa/zona en particular se meta en ese grupo y proponga cuando quiera jugar. Como el lugar ya esta prefijado, solo hace falta acordar una hora.
 
-He querido que la forma de contactar sea lo más directa y sencilla posible (no redes sociales) y puesto que la mayoría de las personas en España tienen Whatsapp pues eso usamos.
+He querido que la forma de contactar sea lo más directa y sencilla posible (no redes sociales) y puesto que la mayoría de las personas en España tienen Whatsapp/Telegram pues eso usamos.
 
 ![quedar es simple!](whatsapp-ping-pong-meeting.png)
 
